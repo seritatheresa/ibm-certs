@@ -1,2 +1,2 @@
 # ibm-certs
-Repository for Data Science certification projects
+This is a repository for Data Science certification projects.
